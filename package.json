@@ -1,0 +1,27 @@
+{
+  "name": "vigilant-pancake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cycle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloss-water/vigilant-pancake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloss-water/vigilant-pancake/issues"
+  },
+  "homepage": "https://github.com/gloss-water/vigilant-pancake#readme",
+  "devDependencies": {
+    "fast-xml-parser": "^3.12.0",
+    "graceful-fs": "^4.1.11"
+  },
+  "dependencies": {
+    "xml2json": "^0.11.2"
+  }
+}
